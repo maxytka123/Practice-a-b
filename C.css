@@ -1,0 +1,41 @@
+.food-block{
+    background-color:lightgray;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 3px solid orange;
+    margin-bottom: 15px;
+    max-width: 425px;
+}
+.food-block  h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.food-block p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-bottom: 1px solid black;
+
+}
+/* 
+1. Создайте файл стилей `styles.css`.
+2. В файле стилей `styles.css`:
+* Для класса `.food-block`:
+- Задайте фоновый цвет background-color: lightgray; .
+- Установите отступы внутри блока: 10 пикселей сверху и снизу, 20 пикселей слева и справа.
+- Установите толщину бордера в 3 пикселя, стиль - сплошная линия (solid), цвет - orange.
+
+* Для класса `.food-block` заголовку внутри блока:
+- Установите внешний отступ сверху и снизу в 10 пикселей.
+
+* Для класса `.food-block` абзацу текста внутри блока:
+- Установите внутренний отступ сверху и снизу в 10 пикселей.
+- Установите внешний отступ слева и справа в 20 пикселей.
+- Установите нижний бордер 1 пиксель, сплошной, черный 
+*/
+/* margin-bottom: 15px;
+max-width: 425px; */ 
